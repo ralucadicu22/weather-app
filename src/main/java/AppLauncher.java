@@ -7,6 +7,7 @@ public class AppLauncher {
             public void run() {
               new WeatherApp().setVisible(true);
 
+
             }
         });
     }
